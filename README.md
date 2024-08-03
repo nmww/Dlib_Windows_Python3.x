@@ -98,7 +98,7 @@ ERROR: Could not build wheels for dlib, which is required to
 - 安装指令
 
 ```
-
+python -m pip install dlib名字.whl
 ```
 - 注意：这些 wheel 文件只能用于在 Windows x64 操作系统上安装 Dlib。
 
